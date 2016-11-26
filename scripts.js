@@ -11,4 +11,3 @@ function add(num){
 return num+2;
 }
 
-add(multiply(subtract(2)));
